@@ -5,3 +5,4 @@ resource "aws_lightsail_instance" "custom" {
   bundle_id = "medium"
 
 }
+
